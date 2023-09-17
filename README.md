@@ -22,7 +22,8 @@ You can install these dependencies using pip:
   ```bash
   pip install -r requirements.txt
   ```
-  
+Make sure to have the data set file in the same folder as of the jupyter notebook.
+
 # Implementation
 To implement the code, follow these steps in the same order as they appear in the Jupyter Notebook:
 
