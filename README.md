@@ -2,7 +2,7 @@
 ## ROLL NO: 21CS10052
 
 # Assignment 1 - Exploratory Data Analysis and Classification
-This project explores a dataset using Python, pandas, and scikit-learn. The dataset, named 'framingham.csv', contains information related to heart disease risk factors and outcomes. The project involves data preprocessing, exploratory data analysis (EDA), and classification tasks.
+This project explores a dataset using Python, pandas, and scikit-learn. The dataset, named `framingham.csv`, contains information related to heart disease risk factors and outcomes. The project involves data preprocessing, exploratory data analysis (EDA), and classification tasks.
 
 # Dependencies/ Requirements
 Before running the code, ensure you have the following libraries installed:
@@ -41,7 +41,7 @@ To implement the code, follow these steps in the same order as they appear in th
 - Printing the Final Results: The final results, including accuracy scores and classification reports for each model and resampling strategy, will be printed in the Jupyter Notebook.
 
 # Sample Output
-A sample output of the code execution has been provided in the Output.pdf file. You can refer to this file to see the results of running the code.
+A sample output of the code execution has been provided in the `Output.pdf` file. You can refer to this file to see the results of running the code.
 
 # Code Description and Analysis
-The code is thoroughly documented using comments within the Jupyter Notebook, explaining each step and its purpose. Additionally, the strengths and weaknesses of Logistic Regression, Support Vector Machines (SVM), Decision Tree, and KNN for predicting Heart Disease are discussed in the report.pdf file. The report also identifies the most suitable model based on accuracy and efficiency.
+The code is thoroughly documented using comments within the Jupyter Notebook, explaining each step and its purpose. Additionally, the strengths and weaknesses of Logistic Regression, Support Vector Machines (SVM), Decision Tree, and KNN for predicting Heart Disease are discussed in the `report.pdf` file. The report also identifies the most suitable model based on accuracy and efficiency.
