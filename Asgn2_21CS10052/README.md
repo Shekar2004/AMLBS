@@ -19,15 +19,16 @@ To execute the code and reproduce the results, follow these steps:
 ### 1. Install Dependencies
 Use the provided requirements.txt file to install the required Python packages. Run the following command:
 
-bash
-Copy code
+```bash
 pip install -r requirements.txt
+```
 
 ### 2. Run the Python Scripts
-Data Preprocessing and Model Training: Execute the main.py script to preprocess the data, train the machine learning models, and generate evaluation results.
-bash
-Copy code
-python main.py
+Run the Cells in the Jupyter notebook one by one in the given order.
+
+- Data Importing and Manipulation: The code related to Data preprocessing is in the first cell of the Jupyter Notebook.
+
+- Data Encoding: The code related to Data Encoding is in the second cell of the Jupyter Notebook.
 
 - SVM Models: The code related to SVM models is in the third cell of the Jupyter Notebook.
 
