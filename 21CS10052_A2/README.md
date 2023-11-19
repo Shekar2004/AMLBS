@@ -44,3 +44,4 @@ Prediction on unlabeled test data
 
 #### Note:
 A sample output is also provided for reference as a pdf file - output.pdf
+The data set is present as zip file extract them to work on this data set.
